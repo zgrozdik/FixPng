@@ -2,6 +2,8 @@
 
 Инструменты для восстановления и обработки PNG файлов.
 
+Дополнительно: бесплатная нарезка YouTube Shorts — см. [`shorts_clipper/README.md`](shorts_clipper/README.md).
+
 ## 📁 Файлы проекта
 
 - `png_repair.py` - основной скрипт восстановления PNG файлов
